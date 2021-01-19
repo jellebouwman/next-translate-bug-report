@@ -1,0 +1,188 @@
+{
+  "./ca/common": [
+    {
+      "id": "./locales/ca/common.json",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "./ca/common.json": [
+    {
+      "id": "./locales/ca/common.json",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "./ca/dynamic": [
+    {
+      "id": "./locales/ca/dynamic.json",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./ca/dynamic.json": [
+    {
+      "id": "./locales/ca/dynamic.json",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./ca/error": [
+    {
+      "id": "./locales/ca/error.json",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "./ca/error.json": [
+    {
+      "id": "./locales/ca/error.json",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "./ca/home": [
+    {
+      "id": "./locales/ca/home.json",
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "./ca/home.json": [
+    {
+      "id": "./locales/ca/home.json",
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "./ca/more-examples": [
+    {
+      "id": "./locales/ca/more-examples.json",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "./ca/more-examples.json": [
+    {
+      "id": "./locales/ca/more-examples.json",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/15.js"
+    }
+  ],
+  "./en/common": [
+    {
+      "id": "./locales/en/common.json",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "./en/common.json": [
+    {
+      "id": "./locales/en/common.json",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "./en/dynamic": [
+    {
+      "id": "./locales/en/dynamic.json",
+      "file": "static/chunks/6.js"
+    }
+  ],
+  "./en/dynamic.json": [
+    {
+      "id": "./locales/en/dynamic.json",
+      "file": "static/chunks/6.js"
+    }
+  ],
+  "./en/error": [
+    {
+      "id": "./locales/en/error.json",
+      "file": "static/chunks/7.js"
+    }
+  ],
+  "./en/error.json": [
+    {
+      "id": "./locales/en/error.json",
+      "file": "static/chunks/7.js"
+    }
+  ],
+  "./en/home": [
+    {
+      "id": "./locales/en/home.json",
+      "file": "static/chunks/8.js"
+    }
+  ],
+  "./en/home.json": [
+    {
+      "id": "./locales/en/home.json",
+      "file": "static/chunks/8.js"
+    }
+  ],
+  "./en/more-examples": [
+    {
+      "id": "./locales/en/more-examples.json",
+      "file": "static/chunks/9.js"
+    }
+  ],
+  "./en/more-examples.json": [
+    {
+      "id": "./locales/en/more-examples.json",
+      "file": "static/chunks/9.js"
+    }
+  ],
+  "./es/common": [
+    {
+      "id": "./locales/es/common.json",
+      "file": "static/chunks/10.js"
+    }
+  ],
+  "./es/common.json": [
+    {
+      "id": "./locales/es/common.json",
+      "file": "static/chunks/10.js"
+    }
+  ],
+  "./es/dynamic": [
+    {
+      "id": "./locales/es/dynamic.json",
+      "file": "static/chunks/11.js"
+    }
+  ],
+  "./es/dynamic.json": [
+    {
+      "id": "./locales/es/dynamic.json",
+      "file": "static/chunks/11.js"
+    }
+  ],
+  "./es/error": [
+    {
+      "id": "./locales/es/error.json",
+      "file": "static/chunks/12.js"
+    }
+  ],
+  "./es/error.json": [
+    {
+      "id": "./locales/es/error.json",
+      "file": "static/chunks/12.js"
+    }
+  ],
+  "./es/home": [
+    {
+      "id": "./locales/es/home.json",
+      "file": "static/chunks/13.js"
+    }
+  ],
+  "./es/home.json": [
+    {
+      "id": "./locales/es/home.json",
+      "file": "static/chunks/13.js"
+    }
+  ],
+  "./es/more-examples": [
+    {
+      "id": "./locales/es/more-examples.json",
+      "file": "static/chunks/14.js"
+    }
+  ],
+  "./es/more-examples.json": [
+    {
+      "id": "./locales/es/more-examples.json",
+      "file": "static/chunks/14.js"
+    }
+  ]
+}
